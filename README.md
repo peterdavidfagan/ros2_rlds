@@ -1,2 +1,2 @@
 # ros2_rlds
-A package for creating robot learning datasets within the ROS ecosystem. 
+A package for converting ROS 2 topic recordings to RLDS format.
